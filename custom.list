@@ -1,0 +1,6 @@
+HOST,bard.google.com,US-proxy
+#kinderling
+HOST-SUFFIX,cdnstream1.com,US-proxy
+HOST,api.kinderling.co,US-proxy
+HOST,pdst.fm,US-proxy
+HOST,events.kinderling.co,US-proxy
