@@ -4,3 +4,8 @@ HOST-SUFFIX,cdnstream1.com,US-proxy
 HOST,api.kinderling.co,US-proxy
 HOST,pdst.fm,US-proxy
 HOST,events.kinderling.co,US-proxy
+#ZCSSR
+HOST-SUFFIX,zcssr.com,LowLatency
+#ChatGPT
+HOST-SUFFIX,cdnstream1.com,US-proxy
+HOST-SUFFIX,openai.com,US-proxy
