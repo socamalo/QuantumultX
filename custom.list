@@ -7,5 +7,5 @@ HOST,events.kinderling.co,US-proxy
 #ZCSSR
 HOST-SUFFIX,zcssr.com,LowLatency
 #ChatGPT
-HOST-SUFFIX,cdnstream1.com,US-proxy
+HOST-SUFFIX,chat.openai.com,LowLatency
 HOST-SUFFIX,openai.com,US-proxy
