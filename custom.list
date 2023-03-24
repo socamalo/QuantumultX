@@ -9,3 +9,5 @@ HOST-SUFFIX,zcssr.com,LowLatency
 #ChatGPT
 HOST-SUFFIX,chat.openai.com,LowLatency
 HOST-SUFFIX,openai.com,US-proxy
+#PNG Tree
+HOST-SUFFIX,pngtree.com,LowLatency
