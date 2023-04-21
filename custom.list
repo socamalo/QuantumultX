@@ -1,13 +1,13 @@
-HOST,bard.google.com,US-available
+HOST,bard.google.com,US
 #kinderling
-HOST-SUFFIX,cdnstream1.com,US-available
-HOST,api.kinderling.co,US-available
-HOST,pdst.fm,US-proxy
-HOST,events.kinderling.co,US-available
+HOST-SUFFIX,cdnstream1.com,US
+HOST,api.kinderling.co,US
+HOST,pdst.fm,US
+HOST,events.kinderling.co,US
 #ZCSSR
 HOST-SUFFIX,zcssr.com,LowLatency
 #ChatGPT
 HOST-SUFFIX,chat.openai.com,LowLatency
-HOST-SUFFIX,openai.com,US-available
+HOST-SUFFIX,openai.com,US
 #PNG Tree
 HOST-SUFFIX,pngtree.com,LowLatency
